@@ -133,7 +133,12 @@ a:visited {
   display: block;
   height: 400px;
 }
-
+#aditi-green-cover{
+  background-image: url("http://i.imgur.com/gTHsO8J.jpg");
+}
+#aditi-green-card{
+  background-image: url("http://i.imgur.com/hax2roD.jpg");
+}
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
